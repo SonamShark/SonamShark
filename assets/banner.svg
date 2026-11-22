@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Sonam Chophel — DevOps and software engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="0.6" stop-color="#0b1426"/>
+      <stop offset="1" stop-color="#0a2233"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="14" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="14" fill="none" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <!-- status pill -->
+  <rect x="60" y="48" width="196" height="26" rx="13" fill="#0f2a3a" stroke="#2dd4bf" stroke-opacity="0.5"/>
+  <circle cx="78" cy="61" r="4" fill="#2dd4bf">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="92" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#7dd3fc">status: building &amp; learning</text>
+  <text x="60" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#f1f5f9">Sonam Chophel</text>
+  <rect x="62" y="146" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="60" y="186" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#94a3b8">Software Developer · DevOps · Cloud-Native</text>
+  <text x="60" y="218" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#38bdf8">$ kubectl get nodes --watch</text>
+  <!-- decorative nodes -->
+  <g stroke="#38bdf8" stroke-opacity="0.45" fill="none">
+    <path d="M760 70 L860 120 L930 70 M860 120 L820 190 M860 120 L940 180"/>
+  </g>
+  <g fill="#0b1426" stroke="url(#accent)" stroke-width="2">
+    <circle cx="760" cy="70" r="12"/><circle cx="930" cy="70" r="12"/>
+    <circle cx="860" cy="120" r="18"/><circle cx="820" cy="190" r="12"/><circle cx="940" cy="180" r="12"/>
+  </g>
+  <circle cx="860" cy="120" r="6" fill="#2dd4bf">
+    <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

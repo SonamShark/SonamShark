@@ -17,11 +17,11 @@
   <rect width="1000" height="260" rx="14" fill="url(#grid)"/>
   <rect x="0.5" y="0.5" width="999" height="259" rx="14" fill="none" stroke="#38bdf8" stroke-opacity="0.25"/>
   <!-- status pill -->
-  <rect x="60" y="48" width="196" height="26" rx="13" fill="#0f2a3a" stroke="#2dd4bf" stroke-opacity="0.5"/>
-  <circle cx="78" cy="61" r="4" fill="#2dd4bf">
+  <rect x="60" y="48" width="262" height="28" rx="13" fill="#0f2a3a" stroke="#2dd4bf" stroke-opacity="0.5"/>
+  <circle cx="78" cy="62" r="4" fill="#2dd4bf">
     <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="92" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#7dd3fc">status: building &amp; learning</text>
+  <text x="94" y="67" textLength="212" lengthAdjust="spacing" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#7dd3fc">status: building &amp; learning</text>
   <text x="60" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#f1f5f9">Sonam Chophel</text>
   <rect x="62" y="146" width="120" height="4" rx="2" fill="url(#accent)"/>
   <text x="60" y="186" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#94a3b8">Software Developer · DevOps · Cloud-Native</text>

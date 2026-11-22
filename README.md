@@ -120,7 +120,7 @@ Areas I'm exploring and practicing, not claiming mastery of:
 <div align="center">
 
 <!-- Replace each placeholder below with your real link, then remove the comment. -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0b1426?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sonam-chophel-33476825b/"><img src="https://img.shields.io/badge/LinkedIn-0b1426?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0b1426?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" /></a>
 <a href="https://YOUR-PORTFOLIO-SITE.example"><img src="https://img.shields.io/badge/Portfolio-0b1426?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
 
